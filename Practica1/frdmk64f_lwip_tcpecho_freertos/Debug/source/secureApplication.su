@@ -1,0 +1,4 @@
+../source/secureApplication.c:12:13:secureTCP_Client	304	static
+../source/secureApplication.c:100:13:secureTCP_Server	40	static
+../source/secureApplication.c:117:6:initSecureTCP_Client	24	static
+../source/secureApplication.c:127:6:initSecureTCP_Server	24	static

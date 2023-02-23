@@ -1,0 +1,6 @@
+../source/SecureLayer.c:12:15:initSecureConnection	32	static
+../source/SecureLayer.c:41:15:secureServerConnect	24	static
+../source/SecureLayer.c:59:13:InitCrc32	32	static
+../source/SecureLayer.c:74:9:secureTransmit	800	static
+../source/SecureLayer.c:124:9:secureReceive	800	static
+../source/SecureLayer.c:180:9:deinitSecureConnection	16	static

@@ -1,0 +1,4 @@
+../lwip/contrib/apps/tcpecho/tcpecho.c:42:1:tcpecho_thread	48	static
+../lwip/contrib/apps/tcpecho/tcpecho.c:95:1:tcpclient_thread	72	static
+../lwip/contrib/apps/tcpecho/tcpecho.c:160:1:tcpecho_init	16	static
+../lwip/contrib/apps/tcpecho/tcpecho.c:165:1:tcpclient_init	16	static
